@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Pytorch笔记](README.md)
+* [Conda常用命令](README.md)
+* [Ubuntu常用命令](ubuntu-chang-yong-ming-ling.md)
 
