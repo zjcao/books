@@ -5,7 +5,6 @@
 
 ----
 
-
 ### 1. 斜体和粗体
 
 使用` * `和` ** `表示斜体和粗体。
@@ -13,7 +12,6 @@
 示例：`这是 *斜体*，这是 **粗体**。`
 
 这是 *斜体*，这是 **粗体**。
-
 
 ### 2. 分级标题
 
@@ -27,7 +25,6 @@
 ### 这是一个三级标题
 ```
 
-
 ### 3. 超链接
 
 使用 `[描述](链接地址) `为文字增加超链接。
@@ -35,7 +32,6 @@
 示例：`这是去往 [Google](http://www.google.com) 的超链接。`
 
 这是去往 [Google](http://www.google.com) 的超链接。
-
 
 ### 4. 无序列表
 
@@ -52,7 +48,6 @@
 - 无序列表项 二
 - 无序列表项 三
 
-
 ### 5. 有序列表
 
 使用`数字和点`表示有序列表。
@@ -68,7 +63,6 @@
 2. 有序列表项 二
 3. 有序列表项 三
 
-
 ### 6. 文字引用
 
 使用` > `表示文字引用。
@@ -76,7 +70,6 @@
 示例：`> 野火烧不尽，春风吹又生。`
 
 > 野火烧不尽，春风吹又生。
-
 
 ### 7. 行内代码块
 
@@ -86,7 +79,6 @@
 
 让我们聊聊 `html`。
 
-
 ### 8.  代码块
 
 使用` 四个缩进空格 `表示代码块。
@@ -94,7 +86,6 @@
 示例：`    这是一个代码块，此行左侧有四个不可见的空格。`
 
     这是一个代码块，此行左侧有四个不可见的空格。
-
 
 ### 9.  插入图像
 
@@ -116,8 +107,6 @@
 
 > 备注：有一些编辑器不支持[TOC]标记，比如简书不支持。
 
-
-
 ### 2. 标签分类
 
 在编辑区任意行的列首位置输入以下代码给文稿标签.
@@ -137,7 +126,6 @@ Tags： 数学 英语 Markdown
 
 Tags： 数学 英语 Markdown
 
-
 ### 3. 删除线
 
 使用 ~~ 表示删除线。
@@ -145,7 +133,6 @@ Tags： 数学 英语 Markdown
 示例：`~~这是一段错误的文本。~~`
 
 ~~这是一段错误的文本。~~
-
 
 ### 4. 注脚
 
@@ -168,7 +155,6 @@ Tags： 数学 英语 Markdown
 [^1]:第一注脚解释。
 
 [^2]:第二注脚解释。
-
 
 ### 5. LaTeX 公式
 
@@ -196,7 +182,6 @@ $$f(x_1,x_x,\ldots,x_n) = x_1^2 + x_2^2 + \cdots + x_n^2$$
 $$\sum^{j-1}_{k=0}{\widehat{\gamma}_{kj} z_k}$$
 
 访问 [MathJax](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference) 参考更多使用方法。
-
 
 ### 6. 加强的代码块
 
@@ -257,7 +242,6 @@ cond(no)->sub->io
 
 更多语法参考：[流程图语法参考](http://adrai.github.io/flowchart.js/)
 
-
 ### 8. 序列图
 
 示例 1
@@ -279,7 +263,6 @@ D-->>A: Dashed open arrow
 ```
 
 更多语法参考：[序列图语法参考](http://bramp.github.io/js-sequence-diagrams/)
-
 
 ### 9. 甘特图
 
@@ -303,7 +286,6 @@ D-->>A: Dashed open arrow
 
 更多语法参考：[甘特图语法参考](https://knsv.github.io/mermaid/#gant-diagrams)
 
-
 ### 10. Mermaid 流程图
 
 ```graphLR
@@ -314,7 +296,6 @@ D-->>A: Dashed open arrow
 ```
 
 更多语法参考：[Mermaid 流程图语法参考](https://knsv.github.io/mermaid/#flowcharts-basic-syntax)
-
 
 ### 11. Mermaid 序列图
 
@@ -327,7 +308,6 @@ D-->>A: Dashed open arrow
 
 更多语法参考：[Mermaid 序列图语法参考](https://knsv.github.io/mermaid/#sequence-diagrams)
 
-
 ### 12. 表格支持
 
 | 项目        | 价格   |  数量  |
@@ -335,7 +315,6 @@ D-->>A: Dashed open arrow
 | 计算机     | \$1600 |   5     |
 | 手机        |   \$12   |   12   |
 | 管线        |    \$1    |  234  |
-
 
 ### 13. 定义型列表
 
@@ -346,7 +325,6 @@ D-->>A: Dashed open arrow
 :   这是代码块的定义（左侧有一个可见的冒号和四个不可见的空格）
 
         代码块（左侧有八个不可见的空格）
-
 
 ### 14. Html 标签
 
@@ -381,7 +359,6 @@ D-->>A: Dashed open arrow
     </tr>
 </table>
 
-
 ### 15. 内嵌图标
 
 本站的图标系统对外开放，在文档中输入
@@ -397,7 +374,6 @@ D-->>A: Dashed open arrow
 即显示人人的图标： <i class="icon-renren icon-2x"></i>
 
 更多的图标和玩法可以参看 [font-awesome](http://fortawesome.github.io/Font-Awesome/3.2.1/icons/) 官方网站。
-
 
 ### 16. 待办事宜 Todo 列表
 
