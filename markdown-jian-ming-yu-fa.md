@@ -1,9 +1,9 @@
 # Markdown 简明语法手册
 
 标签： Markdown  
-声明：本文摘自：[Cmd Markwon](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown)
 
 ---
+声明：本文摘自：[Cmd Markwon](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown)
 
 ### 1. 斜体和粗体
 
