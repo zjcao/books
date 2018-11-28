@@ -1,3 +1,7 @@
+<head>
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default">
+    </script>
+</head>
 # 第一部分 基础知识
 
 ## 第1章 算法在计算中的作用
