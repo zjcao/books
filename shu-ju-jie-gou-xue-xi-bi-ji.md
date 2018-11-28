@@ -1,6 +1,5 @@
 > 数据结构学习笔记  
 > 参考书《算法导论》第3版_中文翻译版  
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
 # 第一部分 基础知识
 
@@ -19,4 +18,3 @@
   - 算法所花时间大致等于$c_2nlgn$
 
 我们应该像计算机硬件一样把**算法**看成是一种技术。
-
