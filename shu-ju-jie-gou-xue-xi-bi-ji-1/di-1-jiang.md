@@ -1,5 +1,3 @@
-> 数据结构学习笔记
-
 ## 第1讲 
 
 ### 0. 学习目标：
@@ -72,10 +70,9 @@ if p < r
 **哪种算法最好?**
 
 - Unfortunately, we still cannot tell
-    – since constants in running times are unknown
+    - since constants in running times are unknown
 
 - But we do know that if n is VERY large,
     - worst-case time of Merge Sort must be smaller than that of Insertion Sort
 
 - Merge Sort is asymptotically faster than Insertion Sort
-
