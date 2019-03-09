@@ -9,5 +9,5 @@
 
 ## &lt;&lt;数据结构&gt;&gt;学习笔记
 
-* [第1讲](shu-ju-jie-gou-xue-xi-bi-ji-1/di-1-jiang.md)
+* [第1讲](shu-ju-jie-gou-xue-xi-bi-ji-1/Lecture-1.md)
 
