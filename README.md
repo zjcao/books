@@ -6,4 +6,5 @@
 
 - 《Python深度学习》_2018中文版.pdf
 
+- [《神经网络与深度学习》_中文版_邱锡鹏.pdf](https://nndl.github.io/)
 
