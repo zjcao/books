@@ -8,3 +8,5 @@
 
 - [《神经网络与深度学习》_中文版_邱锡鹏.pdf](https://nndl.github.io/)
 
+- [《动手学深度学习》_李沐.pdf](http://zh.gluon.ai/)
+
