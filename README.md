@@ -11,7 +11,7 @@
 - [《动手学深度学习》_中文版_李沐.pdf](http://zh.gluon.ai/)
 
 
----
+## PyTorch学习图书目录
 
 - [《深度学习框架PyTorch：入门与实践》_中文版_陈云](https://github.com/chenyuntc/pytorch-book)
 
