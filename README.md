@@ -10,6 +10,7 @@
 
 - [《动手学深度学习》_中文版_李沐.pdf](http://zh.gluon.ai/)
 
+- [Python计算机视觉编程](https://github.com/silenove/python_ebook/blob/master/python%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89.pdf)
 
 #### PyTorch学习图书目录
 
