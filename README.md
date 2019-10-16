@@ -12,6 +12,8 @@
 
 - [《Python计算机视觉编程》_中文版.pdf](https://github.com/silenove/python_ebook/blob/master/python%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89.pdf)
 
+- [《机器学习训练秘籍》中文版_吴恩达.pdf](https://deeplearning-ai.github.io/machine-learning-yearning-cn/)
+
 #### PyTorch学习图书目录
 
 - [《深度学习框架PyTorch：入门与实践》_中文版_陈云.ipynb](https://github.com/chenyuntc/pytorch-book)
