@@ -15,12 +15,12 @@
 - [《机器学习训练秘籍》中文版_吴恩达.pdf](https://deeplearning-ai.github.io/machine-learning-yearning-cn/)
 
 
-#### PyTorch学习图书目录
+### PyTorch学习图书目录
 
 - [《深度学习框架PyTorch：入门与实践》_中文版_陈云.ipynb](https://github.com/chenyuntc/pytorch-book)
 
 
 ### 更多电子书请访问查找
 
--[IT熊猫]（https://itpanda.net/book/category/machine-learning）
+- [IT熊猫]（https://itpanda.net/book/category/machine-learning）
 
