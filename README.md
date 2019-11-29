@@ -22,6 +22,6 @@
 
 ### 其他
 
-- 更多电子书请访问查找 [IT熊猫](https://itpanda.net/book/category/machine-learning)
+- 更多电子书请访问 [IT熊猫](https://itpanda.net/book/category/machine-learning) 查找
 
 
