@@ -20,8 +20,8 @@
 - [《深度学习框架PyTorch：入门与实践》_中文版_陈云.ipynb](https://github.com/chenyuntc/pytorch-book)
 
 
-### 更多电子书请访问查找
+### 其他
 
-- [IT熊猫](https://itpanda.net/book/category/machine-learning)
+- 更多电子书请访问查找 [IT熊猫](https://itpanda.net/book/category/machine-learning)
 
 
