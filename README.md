@@ -24,6 +24,5 @@
 
 - 更多电子书请访问 [IT熊猫](https://itpanda.net/book/category/machine-learning) 查找
 
-<a class="pull-right" href="https://clustrmaps.com/site/1b4xh"  title="Visit tracker"> <img src="//www.clustrmaps.com/map_v2.png?d=Lpfv0-IqfVZqkut8EK7arhA_ptN_sJTSzAmHKL6teVw&cl=ffffff" /></a>
 
 
