@@ -34,11 +34,13 @@
 - [《机器学习训练秘籍》中文版_吴恩达.pdf](https://deeplearning-ai.github.io/machine-learning-yearning-cn/)
 
 
-### PyTorch学习图书目录
+
+### PyTorch学习图书
 
 - [《深度学习框架PyTorch：入门与实践》_中文版_陈云.ipynb](https://github.com/chenyuntc/pytorch-book)
 
 - [《PyTorch深度学习.pdf》](https://github.com/Kensuke-Hinata/statistic/blob/master/AI/books/PyTorch%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)
+
 
 
 ### 其他
