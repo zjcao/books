@@ -1,4 +1,4 @@
-## 深度学习图书目录
+## 深度学习、机器学习图书目录
 
 ### python
 
@@ -25,7 +25,7 @@
 ### 计算机视觉
 
 - [《Python计算机视觉编程》_中文版.pdf](https://github.com/silenove/python_ebook/blob/master/python%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89.pdf)
-- 
+
 
 ### 机器学习
 
